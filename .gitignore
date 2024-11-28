@@ -1,0 +1,10 @@
+# Compiled source
+*.fasl
+*.x86f
+*.lib
+
+# FASLs of test files
+.vscode/
+.idea/
+*.swp
+*.bak
