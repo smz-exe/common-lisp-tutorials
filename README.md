@@ -12,7 +12,7 @@ This repository contains my practice and learning journey for Common Lisp progra
 - SBCL (Steel Bank Common Lisp)
 - Emacs with SLIME / VSCode with Alive
 
-## How to Run
+## How to Set Up
 
 1. Install SBCL: [https://www.sbcl.org/](https://www.sbcl.org/) or `brew install sbcl`
 2. Clone this repository: `git clone https://github.com/smz-exe/common-lisp-tutorials.git`
